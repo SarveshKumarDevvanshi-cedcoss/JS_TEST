@@ -1,0 +1,16 @@
+.wrapper {
+    margin: 2%;
+    padding: 5%;
+    width: 100%;
+}
+div {
+    /* width: 100%; */
+    display: table-caption;
+    margin: 5%;
+}
+input#btn {
+    padding: 5px 20px;
+    font-size: medium;
+    background-color: dodgerblue;
+    border-radius: 5px;
+}
